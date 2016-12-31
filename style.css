@@ -1,0 +1,8 @@
+.body
+{
+    background: lightgray;
+}
+
+.table-hover tbody tr:hover td {
+    background: aqua;
+}
